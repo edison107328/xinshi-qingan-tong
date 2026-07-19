@@ -2,6 +2,12 @@
 
 「信實青安通」是新青安 2.0／3.0 的初步資格評估與貸款試算 PWA。
 
+## 正式公開網站
+
+https://edison107328.github.io/xinshi-qingan-tong/
+
+![信實青安通網站 QR Code](qr-code.png)
+
 - 正式名稱：信實青安通
 - 程式倉庫名稱：xinshi-qingan-tong（僅作網址使用）
 - 評估結果僅供初步參考，不代表銀行核准
